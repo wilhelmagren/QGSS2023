@@ -11,16 +11,16 @@ From theory to implementation.
 | Monday, July 17 | Multiple Systems | J. Watrous | Lecture |
 | Monday, July 17 | N/A | O. Lanes, J. Watrous | Live Q&A |
 | Tuesday, July 18 | Quantum Circuits | J. Watrous | Lecture |
-| Tuesday, July 18 | Qiskit 101 | A. Mitchell | Lab |
+| **Tuesday, July 18** | **Qiskit 101** | **A. Mitchell** | **Lab** |
 | Tuesday, July 18 | N/A | J. Watrous, A. Mitchell | Live Q&A |
 | Wednesday, July 19 | Entanglement in Action | J. Watrous | Lecture |
-| Wednesday, July 19 | Creating Entanglement with Qiskit | N. Bronn | Lab |
+| **Wednesday, July 19** | **Creating Entanglement with Qiskit** | **N. Bronn** | **Lab** |
 | Wednesday, July 19 | N/A | N. Bronn, J. Watrous | Live Q&A |
 | Thursday, July 20 | Quantum Query Algorithms | J. Watrous | Lecture |
 | Thursday, July 20 | Foundations of Quantum Algorithms | J. Watrous | Lecture |
 | Thursday, July 20 | N/A | O. Lanes, J. Watrous | Live Q&A |
 | Friday, July 21 | Phase Estimation and Factoring | J. Watrous | Lecture |
-| Friday, July 21 | Diving into Quantum Algorithms | K. Ferris | Lab |
+| Friday, July 21 | **Diving into Quantum Algorithms** | **K. Ferris** | **Lab** |
 | Friday, July 21 | N/A | O. Lanes, J. Watrous | Live Q&A |
 | Monday, July 24 | Kick Off | O. Lanes | Address |
 | Monday, July 24 | Quantum Computing Hardware and Super Conducting Circuits | O. Lanes | Lecture |
@@ -30,13 +30,13 @@ From theory to implementation.
 | Tuesday, July 25 | N/A | Z. Minev, J. Watrous | Live Q&A |
 | Wednesday, July 26 | Iterative Quantum Phase Estimation: Moving Beyond Traditional QPE | K. Ferris | Lecture |
 | Wednesday, July 26 | Variational Quantum Eigensolver | O. Shehab | Lecture |
-| Wednesday, July 26 | Iterative Phase Estimation | K. Sung | Lab |
+| **Wednesday, July 26** | **Iterative Phase Estimation** | **K. Sung** | **Lab** |
 | Wednesday, July 26 | N/A | K. Ferris, J. Watrous | Live Q&A |
 | Thursday, July 27 | Noise Mitigation - Part 1 | N. Bronn | Lecture |
-| Thursday, July 27 | Noise Mitigation - Part 2 | N. Bronn | Lab |
-| Thursday, July 27 | Noise Mitigation | K. Sung | Lab |
+| **Thursday, July 27** | **Noise Mitigation - Part 2** | **N. Bronn** | **Lab** |
+| **Thursday, July 27** | **Noise Mitigation** | **K. Sung** | **Lab** |
 | Thursday, July 27 | N/A | K. Sung, J. Watrous | Live Q&A |
-| Friday, July 28 | Contributin to Qiskit | A. Mitchell | Lab |
+| **Friday, July 28** | **Contributin to Qiskit** | **A. Mitchell** | **Lab** |
 | Friday, July 28 | Closing Ceremony | Various | N/A |
 </details>
 
